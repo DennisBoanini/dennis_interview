@@ -1,0 +1,23 @@
+[
+  {
+    "id": 101,
+    "firstName": "Alice",
+    "lastName": "Able",
+    "email": "alice@example.test",
+    "avatarUrl": "https://example.test/alice.png"
+  },
+  {
+    "id": 102,
+    "firstName": "Bob",
+    "lastName": "Baker",
+    "email": "bob@example.test",
+    "avatarUrl": "https://example.test/bob.png"
+  },
+  {
+    "id": 103,
+    "firstName": "Cara",
+    "lastName": "Clark",
+    "email": "cara@example.test",
+    "avatarUrl": "https://example.test/cara.png"
+  }
+]

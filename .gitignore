@@ -1,0 +1,21 @@
+## Node / frontend
+node_modules/
+dist/
+.vite/
+
+## Java / backend
+target/
+*.class
+
+## Packaged interview zips
+*.zip
+
+## Private evaluation output
+eval/reports/*
+!eval/reports/.gitignore
+
+## Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.iml

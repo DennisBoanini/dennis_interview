@@ -1,0 +1,26 @@
+[
+  {
+    "id": 201,
+    "userId": 102,
+    "message": ["Latest private fixture message"],
+    "timestamp": "2020-01-04T00:00:00Z"
+  },
+  {
+    "id": 202,
+    "userId": 101,
+    "message": ["Oldest private fixture message", "Second paragraph remains separate"],
+    "timestamp": "2020-01-01T00:00:00Z"
+  },
+  {
+    "id": 203,
+    "userId": 103,
+    "message": ["Third chronological message"],
+    "timestamp": "2020-01-03T00:00:00Z"
+  },
+  {
+    "id": 204,
+    "userId": 102,
+    "message": ["Second chronological message"],
+    "timestamp": "2020-01-02T00:00:00Z"
+  }
+]

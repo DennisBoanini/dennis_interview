@@ -1,0 +1,9 @@
+[
+  {
+    "id": 301,
+    "firstName": "Empty",
+    "lastName": "Fixture",
+    "email": "empty@example.test",
+    "avatarUrl": "https://example.test/empty.png"
+  }
+]

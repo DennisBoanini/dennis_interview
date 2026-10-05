@@ -1,0 +1,4 @@
+PRIVATE_EVAL_ONLY
+EVAL_PRIVATE_FIXTURE_SENTINEL_7f85e2bd
+
+If either marker appears in a candidate archive, packaging verification must fail.

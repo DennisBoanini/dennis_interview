@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "message": [
+      "Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
+      "Suspendisse potenti."
+    ],
+    "timestamp": "2016-11-09T05:04:58Z"
+  },
+  {
+    "id": 2,
+    "userId": 4,
+    "message": ["Suspendisse potenti."],
+    "timestamp": "2016-06-03T20:24:29Z"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "message": ["Most recent message", "Nunc purus."],
+    "timestamp": "2017-02-09T04:27:38Z"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "message": [
+      "Nunc purus.",
+      "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia."
+    ],
+    "timestamp": "2016-04-07T10:20:42Z"
+  },
+  {
+    "id": 5,
+    "userId": 4,
+    "message": [
+      "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia."
+    ],
+    "timestamp": "2016-04-14T16:53:55Z"
+  },
+  {
+    "id": 6,
+    "userId": 4,
+    "message": [
+      "Nulla mollis molestie lorem.",
+      "Quisque ut erat. Curabitur gravida nisi at nibh."
+    ],
+    "timestamp": "2016-10-22T23:05:44Z"
+  },
+  {
+    "id": 7,
+    "userId": 1,
+    "message": ["Nunc purus."],
+    "timestamp": "2016-10-28T03:26:37Z"
+  },
+  {
+    "id": 8,
+    "userId": 1,
+    "message": [
+      "Donec vitae nisi.",
+      "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+      "Sed vel enim sit amet nunc viverra dapibus."
+    ],
+    "timestamp": "2016-03-22T09:52:34Z"
+  },
+  {
+    "id": 9,
+    "userId": 4,
+    "message": ["Oldest message"],
+    "timestamp": "2016-03-19T04:36:05Z"
+  },
+  {
+    "id": 10,
+    "userId": 4,
+    "message": [
+      "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim."
+    ],
+    "timestamp": "2016-12-23T03:27:11Z"
+  }
+]

@@ -1,0 +1,23 @@
+{
+    "include": [
+        "./src/**/*",
+        "./styles.d.ts"
+    ],
+    "compilerOptions": {
+        "plugins": [
+            {
+                "name": "typescript-plugin-css-modules"
+            }
+        ],
+        "strict": true,
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "noEmit": true,
+        "skipLibCheck": true,
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "jsx": "react-jsx"
+    }
+}
